@@ -13,7 +13,7 @@ This project focuses on building a predictive model to help healthcare providers
 - [Data Preparation](#data-preparation)
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
-- [Results](#conclusion)
+- [Recommendation](#conclusion)
 
 - ## Data Description
 
