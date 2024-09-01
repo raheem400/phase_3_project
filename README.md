@@ -54,12 +54,12 @@ Model performance was evaluated using the following metrics:
 ##Recommendation
 
 
--**Random Forest is the best model overall because it balances precision, recall, and accuracy effectively while also having a high ROC-AUC score. It should provide the best trade-off between correctly identifying high-risk patients and minimizing false positives, making it the most suitable choice for your classification problem.
+- **Random Forest is the best model overall because it balances precision, recall, and accuracy effectively while also having a high ROC-AUC score. It should provide the best trade-off between correctly identifying high-risk patients and minimizing false positives, making it the most suitable choice for your classification problem.
 
 
 
--**Focus on Middle-Aged Adults: Healthcare interventions might be particularly beneficial for individuals in their late 20s to mid-40s, as these age groups have higher numbers of diabetes cases.
+- **Focus on Middle-Aged Adults: Healthcare interventions might be particularly beneficial for individuals in their late 20s to mid-40s, as these age groups have higher numbers of diabetes cases.
 
--**Targeted Interventions: Healthcare providers should consider closely monitoring and offering lifestyle interventions to individuals with BMI over 25, particularly as they approach BMI levels where higher diabetes rates are observed (e.g., above BMI 27).
+- **Targeted Interventions: Healthcare providers should consider closely monitoring and offering lifestyle interventions to individuals with BMI over 25, particularly as they approach BMI levels where higher diabetes rates are observed (e.g., above BMI 27).
 
 
